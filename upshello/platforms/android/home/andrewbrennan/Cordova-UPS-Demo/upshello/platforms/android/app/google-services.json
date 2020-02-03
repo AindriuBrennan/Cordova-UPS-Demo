@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "211412359469",
+    "firebase_url": "https://cordova-android-a9f44.firebaseio.com",
+    "project_id": "cordova-android-a9f44",
+    "storage_bucket": "cordova-android-a9f44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211412359469:android:ad6133ed55b2edf803dba4",
+        "android_client_info": {
+          "package_name": "org.aerogear.hello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211412359469-7s5an90kf66vmh8b07jot6j0rabn0pqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkSZSHuRVMKRTzGx15HsKBdgrPAShjy8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211412359469-7s5an90kf66vmh8b07jot6j0rabn0pqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -53,7 +53,7 @@ var app = {
   registerToUPS: () => {
     console.log('Registering...');
     new PushRegistration({
-      url: 'http://localhost:9999/',
+      url: 'http://10.0.2.2:9999/',
       android: {
         senderID: '211412359469',
         variantID: 'e828116a-c71b-44cb-84f1-7d13ce42c9b8',
@@ -69,3 +69,5 @@ var app = {
     });
   }
 };
+
+app.initialize();

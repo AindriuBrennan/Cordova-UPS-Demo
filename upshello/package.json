@@ -30,7 +30,8 @@
       "cordova-plugin-whitelist": {},
       "cordova-plugin-aerogear-push": {},
       "cordova-plugin-device": {},
-      "cordova-plugin-webpack": {}
+      "cordova-plugin-webpack": {},
+      "cordova-support-google-services": {}
     },
     "platforms": [
       "android"
